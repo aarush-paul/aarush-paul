@@ -2,7 +2,6 @@
   <b><img src="https://i.ibb.co/8d2rS7x/download.png"></b>
 </h1>
 
-Heya! I'm Aarush Paul.
 
 <br>
 
