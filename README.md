@@ -1,15 +1,39 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Aarush Paul</b>
+</h1>
+
+Heya! I'm Aarush Paul.
+
+<br>
 
 
-**aarush-paul/aarush-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class AarushPaul():
+    
+  def __init__(self):
+    self.name = "Aarush Paul";
+    self.username = "Aarush Paul";
+    self.location = "West Bengal, India";
+    self.web = "https://www.aarushpaul.codes";
+  
+  def __str__(self):
+    return self.name
 
-Here are some ideas to get you started:
+if __name__ == '__main__':
+    me = AarushPaul()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://www.aarushpaul.codes">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aarush-paul&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarush-paul&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Aarush Paul's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarush-paul&custom_title=Aarush%20Paul's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=030ffc&point=c58545)](https://aarush-paul.github.io)
+
