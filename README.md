@@ -2,12 +2,6 @@
   <b><img src="https://i.ibb.co/8d2rS7x/download.png"></b>
 </h1>
 
-<br>
-
-
-## My Statistics
-
-<br/>
 <p align="left">
   <a href="https://www.aarushpaul.codes">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aarush-paul&show_icons=true&theme=tokyonight&hide_border=true" />
