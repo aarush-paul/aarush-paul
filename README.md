@@ -5,6 +5,16 @@
 
 <br>
 
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://www.aarushpaul.codes">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aarush-paul&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarush-paul&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<br>
 
 ```python
 class AarushPaul():
@@ -23,16 +33,7 @@ if __name__ == '__main__':
 ```
 
 
-## My Statistics
 
-<br/>
-<p align="left">
-  <a href="https://www.aarushpaul.codes">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aarush-paul&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarush-paul&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<br>
 
 
 
