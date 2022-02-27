@@ -35,5 +35,5 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Aarush Paul's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarush-paul&custom_title=Aarush%20Paul's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=030ffc&point=c58545)](https://aarush-paul.github.io)
+[![Aarush Paul's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarush-paul&custom_title=Aarush%20Paul's%20Contribution%20Graph&theme=tokyonight&bg_color=282828&hide_border=true&line=030ffc&point=c58545)](https://aarush-paul.github.io)
 
