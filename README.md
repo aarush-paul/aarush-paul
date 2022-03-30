@@ -8,7 +8,7 @@
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-light.svg)](https://www.instagram.com/__aarush.paul__/#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg)](https://www.instagram.com/__aarush.paul__/#gh-dark-mode-only)
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
 <p align="left">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-</details>
+
 
 ```python
 class AarushPaul():
