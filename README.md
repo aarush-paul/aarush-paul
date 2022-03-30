@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Aarush Paul 👋 
 
 ### Connect with me:
 
