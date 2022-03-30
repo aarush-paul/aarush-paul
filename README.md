@@ -1,6 +1,15 @@
-<h1 align="center">
-  <b><img src="https://i.ibb.co/8d2rS7x/download.png"></b>
-</h1>
+# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+
+### Connect with me:
+
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg)](https://aarush-paul.github.io#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg)](https://aarush-paul.github.io#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-light.svg)](https://www.instagram.com/__aarush.paul__/#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg)](https://www.instagram.com/__aarush.paul__/#gh-dark-mode-only)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
 <p align="left">
   <a href="https://www.aarushpaul.codes">
@@ -8,7 +17,8 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarush-paul&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-<br>
+
+</details>
 
 ```python
 class AarushPaul():
