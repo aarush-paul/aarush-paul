@@ -9,14 +9,7 @@
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg)](https://www.instagram.com/__aarush.paul__/#gh-dark-mode-only)
 
 
-  <summary>:zap: GitHub Stats</summary>
 
-<p align="left">
-  <a href="https://www.aarushpaul.codes">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aarush-paul&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarush-paul&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 
 
