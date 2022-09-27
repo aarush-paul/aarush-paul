@@ -5,8 +5,8 @@
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg)](https://aarush-paul.github.io#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg)](https://aarush-paul.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-light.svg)](https://www.instagram.com/aarush.paul__/#gh-light-mode-only)
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg)](https://www.instagram.com/aarush.paul__/#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-light.svg)](https://www.instagram.com/aarush.paul__/?theme=dark#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg)](https://www.instagram.com/aarush.paul__/?theme=dark#gh-dark-mode-only)
 
 
 
